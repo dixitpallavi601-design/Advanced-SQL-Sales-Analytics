@@ -37,7 +37,7 @@ This project analyzes sales data using SQL Server to uncover business insights a
 
 ## 📁 Project Files
 - SQL_Project.sql – Complete SQL queries
-- Screenshots – Query results and reports (to be added)
+- Screenshots – Query results and reports
 
 ## 📖 Learning Note
 This project was completed as part of my SQL learning journey. I practiced and implemented advanced SQL concepts by following a guided tutorial and writing the queries independently to strengthen my understanding.
